@@ -42,10 +42,12 @@ Open and execute the Jupyter notebook CelebFaces_DCGAN.ipynb to train the DCGAN 
 The DCGAN model is trained on the CelebA dataset using a batch size of 128. The training loop alternates between updating the generator and discriminator. After training, the generator is able to create realistic celebrity face images.
 ![sphx_glr_dcgan_faces_tutorial_001](https://github.com/user-attachments/assets/63e96af2-0668-450a-aec6-8181ee57d07f)
 
-![Untitled design (1) (2)](https://github.com/user-attachments/assets/f0a5465d-d5dc-4b67-8eb9-684054f825eb)
 
 6. Results:
 After training, the notebook will display generated face images. You can also save the generated images for further analysis.
+
+
+![Untitled design (1) (2)](https://github.com/user-attachments/assets/f0a5465d-d5dc-4b67-8eb9-684054f825eb)
 
 
 
